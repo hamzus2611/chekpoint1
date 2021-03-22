@@ -1,0 +1,13 @@
+How does the web works?
+URL est resolue
+une demande est envoyerr au serveur du site web
+la reponse du serveur est analysée
+la page rendu et affichée
+------------------------------------------
+What do you need to be a web developer?
+Langages de programmation Web frontend et compétences telles que JavaScript, Ajax et techniques d'animation Web 
+Langages de programmation Web backend tels que C # ou Java, PHP et Ruby
+serveur/API
+------------------------------------------
+What’s the role of a web developer.
+Création d'une mise en page de site Web / d'interfaces utilisateur à l'aide de HTML / CSS standard
